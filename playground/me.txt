@@ -1,3 +1,0 @@
-My name is Kushal Goyal.
-Here are my skills : html, css ,js , react ,node.js ,express.js ,mongoose ,mongoDB ,bootstrap ,socket.io ,C ,C++ 
-My email id is kushalgoyal168@gmail.com
